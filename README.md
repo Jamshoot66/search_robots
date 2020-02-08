@@ -41,5 +41,5 @@ https://robots.sergeygorshkov.com/
 Старт локального сервера (хост на [http://localhost:3000](http://localhost:3000) )
 ### `npm start`
 
-Сборка бандла; резульат будет в папке `build`.
+Сборка бандла; результат будет в папке `build`.
 ### `npm run build`
